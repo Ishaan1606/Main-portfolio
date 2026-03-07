@@ -67,7 +67,7 @@ const Hero = () => {
               <ArrowRight className="w-4 h-4" />
             </a>
             <a
-              href="https://drive.google.com/file/d/1VurczXep9tegxK7A2faNc42Py6EdJ-Bw/view"
+              href="https://drive.google.com/file/d/1Y4FFbOz8w4yciMNCKaBPc9ZOuqpwF4AG/view?usp=sharing"
               className="inline-flex items-center gap-2 px-6 py-3 bg-white/5 text-white border border-white/10 rounded-full font-medium hover:bg-white/10 transition-colors"
             >
               Download Resume
