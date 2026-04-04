@@ -12,13 +12,13 @@ const projects = [
     status: "Completed"
   },
   {
-    title: "AI Career Mentor & Smart Study Planner",
-    description: "An AI-powered platform that generates personalized career paths, skill roadmaps, and smart study plans based on user goals and learning progress.",
-    image: "https://picsum.photos/seed/career/800/500",
-    tags: ["React.js", "TypeScript", "Node.js", "AI Integration"],
-    liveUrl: "#",
-    githubUrl: "#",
-    status: "Upcoming Project"
+    title: "Finance Dashboard",
+    description: "Developed a modern finance dashboard with data visualization, transaction tracking, and insights using React.js and Context API Focused on scalable components, responsive design, and efficient state handling.",
+    image: "https://i.postimg.cc/XJnMNrmw/finance-dashboard.png",
+    tags: ["React.js", "Java Script", "CSS",],
+    liveUrl: "https://finance-dashboard-eight-rust.vercel.app/",
+    githubUrl: "https://github.com/Ishaan1606/finance-dashboard",
+    status: "Completed"
   }
 ];
 
