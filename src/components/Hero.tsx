@@ -49,7 +49,7 @@ const Hero = () => {
             transition={{ duration: 0.5, delay: 0.5 }}
             className="text-lg md:text-xl text-zinc-500 mb-10 max-w-2xl leading-relaxed"
           >
-            I build modern, scalable, and user-centric web applications. 
+            I build modern, scalable, and user-centric web applications.
             Passionate about crafting beautiful interfaces with clean code.
           </motion.p>
 
@@ -67,7 +67,7 @@ const Hero = () => {
               <ArrowRight className="w-4 h-4" />
             </a>
             <a
-              href="https://drive.google.com/file/d/1VurczXep9tegxK7A2faNc42Py6EdJ-Bw/view?usp=sharing"
+              href="https://drive.google.com/file/d/1smqPzgctncs6NR49NsKydsf8SjXIt3Ac/view?usp=sharing"
               className="inline-flex items-center gap-2 px-6 py-3 bg-white/5 text-white border border-white/10 rounded-full font-medium hover:bg-white/10 transition-colors"
             >
               Download Resume
